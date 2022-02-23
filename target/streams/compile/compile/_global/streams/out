@@ -1,0 +1,20 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/AkkaHTTP/src/main/scala/AkkaHTTP.scala:13:20: The outer reference in this type test cannot be checked at run time.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  final case class GetFibonacci(number: Int, result: BigInt)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/AkkaHTTP/src/main/scala/AkkaHTTP.scala:16:20: The outer reference in this type test cannot be checked at run time.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  final case class FileSupport(fileName: String, fileContent: String)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/AkkaHTTP/src/main/scala/AkkaHTTP.scala:19:20: The outer reference in this type test cannot be checked at run time.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  final case class GetFile(fileName: String)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/AkkaHTTP/src/main/scala/AkkaHTTP.scala:22:20: The outer reference in this type test cannot be checked at run time.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  final case class DeleteFile(fileName: String)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/AkkaHTTP/src/main/scala/AkkaHTTP.scala:25:20: The outer reference in this type test cannot be checked at run time.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  final case class RenameFile(fileName: String, newFileName: String)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/AkkaHTTP/src/main/scala/AkkaHTTP.scala:28:20: The outer reference in this type test cannot be checked at run time.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  final case class Status(status: Boolean)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m7 warnings found[0m
